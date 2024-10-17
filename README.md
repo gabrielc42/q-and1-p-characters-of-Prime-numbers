@@ -1,7 +1,7 @@
 # q-and1-p-characters-of-Prime-numbers
 
 
-# Characteristics of numbers 11, 7, 3, 5675055181, 13, 1753, 56750551851, 17, 29, 19, 2, 5, 4273, 127, 23 under Bernoulli distribution of influence of sets and Likelihood function, to discuss physical laws of prime numbers and the Riemann hypothesis. Continued reflection on proof by Laurent series and Likeliehood function.
+# Characteristics of numbers 11, 7, 3, 5675055181, 13, 1753, 56750551851, 17, 29, 19, 2, 5, 4273, 127, 23 under Bernoulli distribution of influence of sets and Likelihood function, to discuss physical laws of prime numbers and the Riemann hypothesis. Continued reflection on proof by Laurent series and Likelihood function.
 59.99 value calculated
 
 $`cos(pi/2  - log2(e)) = 0.99999750062433397480084412018728`$
