@@ -47,7 +47,7 @@ Graph this, {.567055181, .5052250171} graph in [wolfram alpha](https://www.wolfr
 
 
 ### What do these numbers have in common?
-  14 dimensions, prime
+  14 dimensions, prime, their dreams
 
 
 ### Entropy,
@@ -97,7 +97,7 @@ since
 p − 1 ≡ −1 (mod p)
 q = -1
 
--1 not ttrivial zero
+-1 not trivial zero
 equality between a sum and a product
 
 1 sum = product
@@ -128,7 +128,7 @@ x = {0, |x| - 1}
 x = {0, (|log(e)| - 1) * } = {0, .5657055181}
 {.567055181, .5052250171}
 {b,c} graph
-b is divisible by 7, c is divisible by 11 and is my phone number
+b is divisible by 7, c is divisible by 11
 11 and 7 are prime numbers
 
 11 and 7 at integer magnitude = b and c
