@@ -296,7 +296,13 @@ Assume that X
  Carmichael number is a composite number n in which in modular arithmetic staisfies the congruence relation: b^n = b (mod n) for all integers b.
  A Giuga number is a composite number n such that for each of its distinct prie factors p initial we have p initial | ( (n/p initial) - 1 ) or equvalently such that for each of its distinct prime factors p  intial we have p initaial ^2 | (n - p initial)
 
-
+https://en.wikipedia.org/wiki/Laurent_series
+https://en.wikipedia.org/wiki/Power_series
+https://en.wikipedia.org/wiki/Holomorphic_function
+https://en.wikipedia.org/wiki/Green%27s_theorem
+https://en.wikipedia.org/wiki/Stokes%27_theorem
+Fundamental theorem of calculus
+ complex differentiable at z0
 Sources:
 - Quantum Field Theory I: Basics in Mathematics and Physics Zeidler, Eberhard 2006/01/01 - Quantum Field Theory I: Basics in Mathematics and Physics: A Bridge between Mathematicians and Physicists
 
