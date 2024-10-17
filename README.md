@@ -1,7 +1,11 @@
 # q-and1-p-characters-of-Prime-numbers
 
+https://github.com/gabrielc42/q-and1-p-characters-of-Prime-numbers/blob/main/stuff.md
 
-# Characteristics of numbers 11, 7, 3, 5675055181, 13, 1753, 56750551851, 17, 29, 19, 2, 5, 4273, 127, 23 under Bernoulli distribution of influence of sets and Likelihood function, to discuss physical laws of prime numbers and the Riemann hypothesis. Continued reflection on proof by Laurent series and Likelihood function.
+
+
+
+# Characteristics of numbers 11, 7, 3, 5675055181, 13, 1753, 56750551851, 17, 29, 19, 2, 5, 4273, 127, 23 under Bernoulli distribution of influence of sets and Likelihood function, to discuss physical laws of prime numbers and the Riemann hypothesis. Continued reflection on proof by Laurent series and Likeliehood function.
 59.99 value calculated
 
 $`cos(pi/2  - log2(e)) = 0.99999750062433397480084412018728`$
@@ -296,7 +300,7 @@ Assume that X
 
  Fermat's little thorem steas that if p is a prime number, then for any integer a, the number a^p - a is an integer multiple of p.
  Carmichael number is a composite number n in which in modular arithmetic staisfies the congruence relation: b^n = b (mod n) for all integers b.
- A Giuga number is a composite number n such that for each of its distinct prie factors p initial we have p initial | ( (n/p initial) - 1 ) or equvalently such that for each of its distinct prime factors p  intial we have p initaial ^2 | (n - p initial)
+ A Giuga number is a composite number n such that for each of its distinct prime factors p,i we have p,i | ( (n/p,i) - 1 ), or equvalently such that for each of its distinct prime factors p,i we have (p,i)^2| (n - p,i)
 
 https://en.wikipedia.org/wiki/Laurent_series
 https://en.wikipedia.org/wiki/Power_series
