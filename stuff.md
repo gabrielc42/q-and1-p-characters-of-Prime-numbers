@@ -62,7 +62,7 @@ https://mathworld.wolfram.com/PrimePartition.html
 
 ``
 *key words:
-radio waves, partitions, prime numbers characteristics, Riemann hypothesis, Bernoulli distribution, Likelihood function, Euler product, meromorphic function, sets, summation, Laurent series, addition, series, pattern, gravity, imaginary numbers, complex analysis, isolated singularities, entropy, Agoh–Giuga conjecture, Euler product, Banach space, Prime partition
+radio waves, partitions, prime numbers characteristics, Riemann hypothesis, Bernoulli distribution, Likelihood function, Euler product, meromorphic function, sets, summation, Laurent series, addition, series, pattern, gravity, imaginary numbers, complex analysis, isolated singularities, entropy, Agoh–Giuga conjecture, Euler product, Banach space, Prime partition, Guiga number, Carmichael number, number theory
 *
 ``
 
@@ -290,7 +290,11 @@ Assume that X
  is not necessarily convex. Are there conditions we can impose on f
  and g
  so that the difference is still convex, e.g., if f(x)≥g(x)
- 
+
+
+ Fermat's little thorem steas that if p is a prime number, then for any integer a, the number a^p - a is an integer multiple of p.
+ Carmichael number is a composite number n in which in modular arithmetic staisfies the congruence relation: b^n = b (mod n) for all integers b.
+ A Giuga number is a composite number n such that for each of its distinct prie factors p initial we have p initial | ( (n/p initial) - 1 ) or equvalently such that for each of its distinct prime factors p  intial we have p initaial ^2 | (n - p initial)
 
 
 Sources:
@@ -308,3 +312,8 @@ Sources:
 
 - https://mathworld.wolfram.com/PrimePartition.html
 
+- https://en.wikipedia.org/wiki/Carmichael_number
+- https://en.wikipedia.org/wiki/Agoh%E2%80%93Giuga_conjecture
+- https://en.wikipedia.org/wiki/Giuga_number
+
+- 
