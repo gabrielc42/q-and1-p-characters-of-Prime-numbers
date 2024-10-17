@@ -58,9 +58,11 @@ $`H(X) = -(qlnq+plnp), q = P(X=0), p = P(X = 1)`$
 
 The entropy is maximized when p = 0.5, indicating the highest level of uncertainty when both outcomes are equally likely. The entropy is zero when or p=0, or p = 1., where one outcome is certain.
 
+https://mathworld.wolfram.com/PrimePartition.html
+
 ``
 *key words:
-radio waves, partitions, prime numbers characteristics, Riemann hypothesis, Bernoulli distribution, Likelihood function, Euler product, meromorphic function, sets, summation, Laurent series, addition, series, pattern, gravity, imaginary numbers, complex analysis, isolated singularities, entropy, Agoh–Giuga conjecture, Euler product, Banach space
+radio waves, partitions, prime numbers characteristics, Riemann hypothesis, Bernoulli distribution, Likelihood function, Euler product, meromorphic function, sets, summation, Laurent series, addition, series, pattern, gravity, imaginary numbers, complex analysis, isolated singularities, entropy, Agoh–Giuga conjecture, Euler product, Banach space, Prime partition
 *
 ``
 
@@ -303,3 +305,6 @@ Sources:
 - https://en.wikipedia.org/wiki/Euler_product
 
 - https://en.wikipedia.org/wiki/Partition_of_a_set
+
+- https://mathworld.wolfram.com/PrimePartition.html
+
