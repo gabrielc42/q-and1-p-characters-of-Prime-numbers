@@ -278,6 +278,14 @@ where x is a realization of the random variable X, the likelihood function is th
 often written L(theta | x)
 
 ### Feynman functional integral 
+https://www.wolframalpha.com/input?i=%28log2%28e%29%29+%2B+%28ln%28e%29+-+1%29
+
+(log2(e)) + (ln(e) - 1) = 1/log(2)
+
+or log2(e)?
+
+## 1 / log(2) is a transcendental number
+
 
 My conclusions, 
 Gravity constant * iL(theta | x)
@@ -309,6 +317,11 @@ https://en.wikipedia.org/wiki/Green%27s_theorem
 https://en.wikipedia.org/wiki/Stokes%27_theorem
 Fundamental theorem of calculus
  complex differentiable at z0
+
+
+
+
+ Now, more seriously, I want to speak about Ramanujan and Euler.
 Sources:
 - Quantum Field Theory I: Basics in Mathematics and Physics Zeidler, Eberhard 2006/01/01 - Quantum Field Theory I: Basics in Mathematics and Physics: A Bridge between Mathematicians and Physicists
 
