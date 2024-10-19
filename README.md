@@ -70,9 +70,7 @@ The entropy is maximized when p = 0.5, indicating the highest level of uncertain
 https://mathworld.wolfram.com/PrimePartition.html
 
 ``
-*key words:
-radio waves, partitions, prime numbers characteristics, Riemann hypothesis, Bernoulli distribution, Likelihood function, Euler product, meromorphic function, sets, summation, Laurent series, addition, series, pattern, gravity, imaginary numbers, complex analysis, isolated singularities, entropy, Agoh–Giuga conjecture, Euler product, Banach space, Prime partition, Guiga number, Carmichael number, number theory
-*
+*key words: radio waves, partitions, prime numbers characteristics, Riemann hypothesis, Bernoulli distribution, Likelihood function, Euler product, meromorphic function, sets, summation, Laurent series, addition, series, pattern, gravity, imaginary numbers, complex analysis, isolated singularities, entropy, Agoh–Giuga conjecture, Euler product, Banach space, Prime partition, Guiga number, Carmichael number, number theory, topological quantum matter, manifolds, Fourier transformation, Laplace transformation, complex differentiables, imaginary numbers, Gauss equation, Ramanujan, Euler *
 ``
 
 970,462.32026163842254755194171738
