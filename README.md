@@ -199,7 +199,20 @@ b1 :: 11
 c1 :: 3
 d1 :: 13
 it isnt in order, and our scale is constantly growing. continue on with this subseries, a box if u will. apply phyiscal laws and let’s also dicsuss the perturbation of electromagnetic field via flame ore fire: 
-- 
+-
+
+
+
+
+ ii is equal to e(- pi / 2 ) and several other values. Consider ii = e(i log i ) = e( i times i pi / 2 ) . Since log is multivalued, there are other possible values for ii.
+Here is how you can compute the value of ii = 0.207879576...
+1. Since e^(ix) = Cos x + i Sin x, then let x = Pi/2.
+2. Then e^(iPi/2) = i = Cos Pi/2 + i Sin Pi/2; since Cos Pi/2 = Cos 90 deg. = 0. But Sin 90 = 1 and i Sin 90 deg. = (i)*(1) = i.
+3. Therefore e^(iPi/2) = i.
+4. Take the ith power of both sides, the right side being i^i and the left side = [e^(iPi/2)]^i = e^(-Pi/2).
+5. Therefore i^i = e^(-Pi/2) = .207879576...
+
+sourced: 
 ```
 
 
@@ -627,18 +640,15 @@ often written L(theta | x)
 
   https://www.wolframalpha.com/input?i=%28log2%28e%29%29+%2B+%28ln%28e%29+-+1%29
 
-(log2(e)) + (ln(e) - 1) = 1/log(2)
-
-or log2(e)?
+<h4>(log2(e)) + (ln(e) - 1) = 1/log(2) or log2(e)?</h4>
 
 <h3>1 / log(2) is a transcendental number</h3>
   
 My conclusions, 
-Gravity constant * iL(theta | x)
+Gravity constant + iL(theta | x), 
+s = 0 + it
 
-1.442695040888963 = log2(e)
-
-1415283835112073 is divisible by 3.
+<h4>1.442695040888963 = log2(e)</h4>
 
 
 
@@ -656,9 +666,12 @@ Assume that X
  Carmichael number is a composite number n in which in modular arithmetic staisfies the congruence relation: b^n = b (mod n) for all integers b.
  A Giuga number is a composite number n such that for each of its distinct prime factors p,i we have p,i | ( (n/p,i) - 1 ), or equvalently such that for each of its distinct prime factors p,i we have (p,i)^2| (n - p,i)
 
-Fundamental theorem of calculus
- complex differentiable at z0
+<h4>Fundamental theorem of calculus, complex differentiable at z0, and more on Fourier/Laplace transformations, along with continuing on the Feynman path integral function. Above conjecture and notable primer charactersitics, including deriving 1/log(2) as a transcendental number is important for potential hypotheses for what these numbers might mean. If you have been reading and following, pay attention to what each of the numbers are respect to as prime numbers. 
 
+In my depth of complex analysis, I only know so much. I want to apply these rules through particular programs and understandings, as well as restarting 1st part thesis with other beginning constants even. Also, please understand these rules are no different than people like Euler and Ramanujan have conjectured for what the basis of quantum principles and Feynman have already discovered. But, I do find it fascinating that I found many prime numbers oINcff intuition and other characteristics, as well as transcendental numnber analysis. 
+
+Learning more about the above, and that application through various readings will be important to follow up with. Including, topological quantum matter, manifolds, more on imaginary numbers and partitions of course.
+</h4>
   
 <h4>Sources:</h4>
 - Quantum Field Theory I: Basics in Mathematics and Physics Zeidler, Eberhard 2006/01/01 - Quantum Field Theory I: Basics in Mathematics and Physics: A Bridge between Mathematicians and Physicists
@@ -683,4 +696,6 @@ Fundamental theorem of calculus
 - https://en.wikipedia.org/wiki/Holomorphic_function
 - https://en.wikipedia.org/wiki/Green%27s_theorem
 - https://en.wikipedia.org/wiki/Stokes%27_theorem
+
  )
+ https://sprott.physics.wisc.edu/pickover/trans.html
