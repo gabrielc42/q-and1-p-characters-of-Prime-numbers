@@ -1,3 +1,6 @@
+
+https://gabrielc42.github.io/q-and1-p-characters-of-Prime-numbers/
+
 [[# q-and1-p-characters-of-Prime-numbers
 
 https://github.com/gabrielc42/q-and1-p-characters-of-Prime-numbers/blob/main/stuff.md
