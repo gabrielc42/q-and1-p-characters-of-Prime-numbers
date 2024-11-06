@@ -3,7 +3,7 @@
 
 How Fish see the world...
 
-I started playing with numbers and got deeply fascinated with what I was finding. Have yet to read through thoroughly enough of the many sources, but they are not haphazardly inputted into this. And of course, some of this may seem contrived and incorrect. However, our lives are too short to restrict ourselves the abundance of the universe and dwaddle with trivial mistakes, especially when it comes to enjoying math. I hope to continue research with these topics, of all the key words listed below. Love math and physics!
+I started playing with numbers and got deeply fascinated with what I was finding. Have yet to read through thoroughly enough of the many sources, but they are not haphazardly inputted into this. And of course, some of this may seem contrived and incorrect. However, our lives are too short to restrict ourselves the abundance of the universe and dwaddle with trivial mistakes, especially when it comes to enjoying math. I hope to continue research with these topics, of all the key words listed below. Also please note that I do not have an undergrad degree in math nor physics (yet). Love math and physics!
 
 
 
@@ -100,7 +100,7 @@ https://mathworld.wolfram.com/PrimePartition.html
 <h4>  
 ``
 *key words:
-radio waves, partitions, prime numbers characteristics, Riemann hypothesis, Bernoulli distribution, Likelihood function, Euler product, meromorphic function, sets, summation, Laurent series, addition, series, pattern, gravity, imaginary numbers, complex analysis, isolated singularities, entropy, Agoh–Giuga conjecture, Euler product, Banach space, Prime partition, Guiga number, Carmichael number, number theory, topological quantum matter, manifolds, Fourier transformation, Laplace transformation, complex differentiables, imaginary numbers, Gauss equation, Ramanujan, Euler, imaginary partition function, transcendental numbers
+radio waves, partitions, prime numbers characteristics, Riemann hypothesis, Bernoulli distribution, Likelihood function, Euler product, meromorphic function, sets, summation, Laurent series, addition, series, pattern, gravity, imaginary numbers, complex analysis, isolated singularities, entropy, Agoh–Giuga conjecture, Banach space, Prime partition, Guiga number, Carmichael number, number theory, topological quantum matter, manifolds, Fourier transformation, Laplace transformation, complex differentiables, Gauss equation, Ramanujan, Euler, imaginary partition function, transcendental numbers
 *
 ``
 </h4>
