@@ -5,6 +5,7 @@ How Fish see the world...
 
 I started playing with numbers and got deeply fascinated with what I was finding. Have yet to read through thoroughly enough of the many sources, but they are not haphazardly inputted into this. And of course, some of this may seem contrived and incorrect. However, our lives are too short to restrict ourselves the abundance of the universe and dwaddle with trivial mistakes, especially when it comes to enjoying math. I hope to continue research with these topics, of all the key words listed below. Also please note that I do not have an undergrad degree in math nor physics (yet). Love math and physics!
 
+I also recently learned about [these]( https://www.mersenne.org/primes/?press=M136279841) and wonder about the at least correlation.
 
 
 <h1># Characteristics of numbers 11, 7, 3, 5675055181, 13, 1753, 56750551851, 17, 29, 19, 2, 5, 4273, 127, 23 and other transcendental numbers
@@ -130,7 +131,7 @@ ER  -
 
 ```
 <h4>It's my lucky day. I solved for prime numbers. I was messing around with equations and papers and homework and math. Got into prime numbers based off ideas of 10 digit numbers and divisibility, and into Bernoulli’s distribution. I went through [partitions](
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4wpjDroAAAAJ&citation_for_view=4wpjDroAAAAJ:u5HHmVD_uO8C), into [Bernoullis distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution), and [numbers](https://en.wikipedia.org/wiki/Bernoulli_number), from [Fermat’s little theorem](https://en.wikipedia.org/wiki/Proofs_of_Fermat's_little_theorem), and unto of course my flavor into the interpretations and sudo math., inlcuding...
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4wpjDroAAAAJ&citation_for_view=4wpjDroAAAAJ:u5HHmVD_uO8C), into [Bernoullis distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution), and [numbers](https://en.wikipedia.org/wiki/Bernoulli_number), from [Fermat’s little theorem](https://en.wikipedia.org/wiki/Proofs_of_Fermat's_little_theorem), and unto of course my flavor into the interpretations and sudo math, including...
 </h4>
 
 q = 1 - p
